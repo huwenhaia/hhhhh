@@ -1,0 +1,86 @@
+{
+  "uid" : "49d33fff82919048",
+  "name" : "test_morning",
+  "fullName" : "02_pytest_selenium#test_morning",
+  "historyId" : "c23d75c2f0d5b0279d83cd84abe7569e",
+  "time" : {
+    "start" : 1562849327091,
+    "stop" : 1562849347363,
+    "duration" : 20272
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0bc4338c5f7dcea",
+      "name" : "log",
+      "source" : "c0bc4338c5f7dcea.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "b7896c0cb4c9e621",
+      "name" : "stdout",
+      "source" : "b7896c0cb4c9e621.txt",
+      "type" : "text/plain",
+      "size" : 16
+    }, {
+      "uid" : "167b7e9e52b1b34f",
+      "name" : "stderr",
+      "source" : "167b7e9e52b1b34f.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "02_pytest_selenium"
+  }, {
+    "name" : "host",
+    "value" : "SNake"
+  }, {
+    "name" : "thread",
+    "value" : "23248-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "02_pytest_selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "908c4c35516cc580",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562848913690,
+        "stop" : 1562848933832,
+        "duration" : 20142
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49d33fff82919048.json",
+  "parameterValues" : [ ]
+}

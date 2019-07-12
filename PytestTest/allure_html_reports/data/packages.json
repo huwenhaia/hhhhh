@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "02_pytest_selenium",
+    "children" : [ {
+      "name" : "test_morning",
+      "uid" : "49d33fff82919048",
+      "parentUid" : "76fe4e2cd611fe71ec4649424ee1f307",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562849327091,
+        "stop" : 1562849347363,
+        "duration" : 20272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_baidu",
+      "uid" : "28d7e480e09a7949",
+      "parentUid" : "76fe4e2cd611fe71ec4649424ee1f307",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562849347380,
+        "stop" : 1562849347380,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "76fe4e2cd611fe71ec4649424ee1f307"
+  } ]
+}
